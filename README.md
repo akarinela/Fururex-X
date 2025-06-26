@@ -67,7 +67,7 @@ Você pode:
 ## 📫 Contato
 
 - ✉️ E-mail: [futurex.equipe@gmail](futurex.equipe@gmail)  
-- 📱 Instagram: [@futureX](https://instagram.com/futurexnext) *(adicione caso tenha)*  
+- 📱 Instagram: [@futureX](https://instagram.com/futurexnext) 
 
 
 ---
@@ -85,4 +85,3 @@ Você pode:
 ## 🛸 Futurex-X: Onde o futuro é codado, um projeto por vez.
 
 ---
-
